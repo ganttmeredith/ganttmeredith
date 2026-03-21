@@ -84,7 +84,10 @@ Previously, I worked on clinical trials at Children's National Hospital and the 
   I spent 5 years in the wet-lab, cell culture space to start my formal research training. At my alma maters, the University of Florida and George Washington University, I cultured the following cell types:
   🧫 HeLa • HEK293T • Fibroblasts (cardiac and dermal) • hiPSC-CM (human induced pluripotent stem cell cardiomyocytes) • V-CM (ventricular cardiomyocytes) • NSCLC (non-small cell lung cancer)
 
-  While combining BSL-II best practices with biomaterial integration workflows, adenoviral and lentiviral expression platforms, magnetic-guided microparticles, fluorescent nanoparticles for optical tracking, anti-cancer and auto-immune epigenetics, and a deep interest in the future automation of cell culture practices within self-driving labs. 
+  I combined BSL-II best practices with:
+  Biomaterial integration workflows • Adenoviral and lentiviral expression platforms • Magnetic-guided microparticles • Fluorescent nanoparticles for optical tracking • Anti-cancer and auto-immune epigenetics 
+  
+  🔎 Deep interest in the future cell culture automation via self-driving labs 🔎
 
 
 ## 🧠 Technical Stack
@@ -117,7 +120,7 @@ SAXS • DLS • SEC-MALS
 **🔬OPTICAL🔬**
 Colorimetric and Fluoremetric Assays • SEM • TEM • Confocal • Ultrasound/CT/MRI Abdominal Malignancies
 **⚙️PHYSICAL⚙️**
-Release kinetics • Rheologymechanical moduli (Instron) • Finite Element Analysis 
+Release kinetics • Rheology• Mechanical moduli (Instron) • Finite Element Analysis 
 
 
 ### Manufacturing
