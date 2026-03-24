@@ -1,8 +1,13 @@
 <h1 align="center"> Gantt Meredith, PhD 🤓</h1>
 <h3 align="center">Postdoctoral Researcher | Self-Driving Labs | Biomedical Engineering</h3>
 <h5 align="center"> EN 🇺🇸 | ES 🇪🇸 | FR 🇫🇷 | PT 🇧🇷 | ASL 🤟</h5>
-<h7 align="right"> I love languages... both human and machine 🦾 </h7>
+<h5 align="center"> I love languages... both human and machine 🦾 </h5>
 
+<p align="center">
+  <a href="https://devpost.com/software/proteinpro-protein-polymer-reactivity-optimizer-v1">
+    <img src="https://img.shields.io/badge/HackDuke%202026-Runner--Up%20🏆-blue?style=for-the-badge" />
+  </a>
+</p>
 
 
 <p align="center">
@@ -17,7 +22,7 @@
   🐊 Biomedical Engineering BS, Linguistics BA • University of Florida | Universidad de Salamanca | Sorbonne Universites
 </p>
 
-## 🌎 Connect With Me
+## 🌎 Connect with me 🌏
 
 <p align="center">
 
