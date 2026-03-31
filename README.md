@@ -87,7 +87,7 @@ Previously, I worked on clinical trials at Children's National Hospital and the 
 <p align="center">
   **BEFORE THAT**
   I spent 5 years in the wet-lab, cell culture space to start my formal research training. At my alma maters, the University of Florida and George Washington University, I cultured the following cell types:
-  🧫 HeLa • HEK293T • Fibroblasts (cardiac and dermal) • hiPSC-CM (human induced pluripotent stem cell cardiomyocytes) • V-CM (ventricular cardiomyocytes) • NSCLC (non-small cell lung cancer)
+  🧫 HeLa • HEK293T • Fibroblasts (cardiac and dermal) • hiPSC-CM (human induced pluripotent stem cell cardiomyocytes) • NSCLC (non-small cell lung cancer)
 
   I combined BSL-II best practices with:
   Biomaterial integration workflows • Adenoviral and lentiviral expression platforms • Magnetic-guided microparticles • Fluorescent nanoparticles for optical tracking • Anti-cancer and auto-immune epigenetics 
