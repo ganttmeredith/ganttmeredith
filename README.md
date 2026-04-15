@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://devpost.com/software/proteinpro-protein-polymer-reactivity-optimizer-v1](https://assets.cureus.com/uploads/original_article/pdf/396697/20250917-89365-resf3e.pdf)">
+  <a href="[https://assets.cureus.com/uploads/original_article/pdf/396697/20250917-89365-resf3e.pdf]">
     <img src="https://img.shields.io/badge/Read%20My%20Latest%20Paper-Feature Analysis in Ultrasound Machine Learning%20🩻-blue?style=for-the-badge" />
   </a>
 </p>
