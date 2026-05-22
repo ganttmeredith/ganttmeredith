@@ -88,7 +88,8 @@ I work at the intersections of **HARDWARE, SOFTWARE, and CLOUDWARE**
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ganttmeredith&layout=compact&theme=tokyonight&hide_border=true"
+    width="400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ganttmeredith&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
