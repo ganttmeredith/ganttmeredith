@@ -87,14 +87,6 @@ I work at the intersections of **HARDWARE, SOFTWARE, and CLOUDWARE**
 </p>
 
 <p align="center">
-  <img
-    width="400"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ganttmeredith&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
 Previously, I worked on clinical trials at Children's National Hospital and the Department of Veterans Affairs in Washington, DC. Creating image processing pipelines for functional MRI and B-mode ultrasound scans, I provided software solutions to clinicians, implementing **containerized workflows, role-based access controls, and encrypted data handling**.
 
 <p align="center">
