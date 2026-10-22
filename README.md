@@ -15,6 +15,20 @@
   </a>
 </p>
 
+<div align="center">
+
+### 📌 Featured Project: [OpenFigure](https://oratorinc.com/openfigure)
+
+**BioRender - ChemDraw - GraphPad functionality with CAS chemical ID and PDB crystalline structure query and structure visualization via open-sourced repositories**
+
+<a href="https://oratorinc.com/openfigure">
+  <img src="https://img.shields.io/badge/Explore-OpenFigure-8A2BE2?style=for-the-badge" alt="Explore OpenFigure">
+</a>
+
+</div>
+
+---
+
 <p align="center">
   🔴 Biomedical Engineering Postdoctoral Fellowship • Rutgers Artificial Intelligence and Data Science Collaboratory 🎓
 </p>
