@@ -155,6 +155,12 @@ FDM 3D Printing • SLA 3D Printing • CNC • Mig Welding • Soldering • Ce
 ## 📊 GitHub Status
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganttmeredith&theme=github-light">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganttmeredith&layout=compact" height="150">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions-dark.svg?v=202610220351">
+    <img src="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions.svg?v=202610220351" alt="Daily GitHub contributions over the past year">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganttmeredith&layout=compact" height="150" alt="Top languages">
 </p>
