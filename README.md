@@ -156,8 +156,8 @@ FDM 3D Printing • SLA 3D Printing • CNC • Mig Welding • Soldering • Ce
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions-dark.svg?v=202610261844">
-    <img src="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions.svg?v=202610261844" alt="Daily GitHub contributions over the past year">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions-dark.svg?v=202610271807">
+    <img src="https://raw.githubusercontent.com/ganttmeredith/ganttmeredith/main/assets/github-contributions.svg?v=202610271807" alt="Daily GitHub contributions over the past year">
   </picture>
 </p>
 
