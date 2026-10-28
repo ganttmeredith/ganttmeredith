@@ -25,10 +25,6 @@
   <img src="https://img.shields.io/badge/Explore-OpenFigure-8A2BE2?style=for-the-badge" alt="Explore OpenFigure">
 </a>
 
-<a href="https://www.loom.com/share/0a50100cd7b64f4893ec6dd1f946f0ee">
-  <img src="https://img.shields.io/badge/Watch%20on%20Loom-OpenFigure%20Demo-8A2BE2?style=for-the-badge" alt="Watch the OpenFigure demo on Loom">
-</a>
-
 https://github.com/user-attachments/assets/4caf6776-5809-4270-a0f8-4e18e4d5c22e
 
 </div>
