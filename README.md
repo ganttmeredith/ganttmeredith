@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Watch-OpenFigure%20Demo-8A2BE2?style=for-the-badge" alt="Watch the OpenFigure demo">
 </a>
 
-<video src="assets/openfigure-demo.mp4" width="720" controls></video>
+https://github.com/user-attachments/assets/4caf6776-5809-4270-a0f8-4e18e4d5c22e
 
 </div>
 
