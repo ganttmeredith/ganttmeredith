@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/Explore-OpenFigure-8A2BE2?style=for-the-badge" alt="Explore OpenFigure">
 </a>
 
+<a href="https://github.com/ganttmeredith/ganttmeredith/blob/main/assets/openfigure-demo.mp4">
+  <img src="https://img.shields.io/badge/Watch-OpenFigure%20Demo-8A2BE2?style=for-the-badge" alt="Watch the OpenFigure demo">
+</a>
+
+<video src="assets/openfigure-demo.mp4" width="720" controls></video>
+
 </div>
 
 ---
